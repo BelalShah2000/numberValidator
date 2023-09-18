@@ -18,5 +18,5 @@ function validatePhoneNumber(phoneNumber) {
   }
   
   
-  console.log(validatePhoneNumber("1(555)555-5555"));
+  console.log(validatePhoneNumber(""));
   
